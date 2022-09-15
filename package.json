@@ -1,0 +1,19 @@
+{
+    "name": "creating-first-server",
+    "version": "1.0.0",
+    "description": "my first nodejs project",
+    "main": "server.js",
+    "scripts": {
+        "start": "node server.js"
+    },
+    "repository": {
+        "type": "git",
+        "url": "git+https://github.com/Kokate0307Rutuja/creating-first-server.git"
+    },
+    "author": "Rutuja Kokate",
+    "license": "ISC",
+    "bugs": {
+        "url": "https://github.com/Kokate0307Rutuja/creating-first-server/issues"
+    },
+    "homepage": "https://github.com/Kokate0307Rutuja/creating-first-server#readme"
+}
